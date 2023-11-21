@@ -193,7 +193,6 @@ header {
     display: block;
     padding-top: 24px;
     padding-bottom: 24px; 
-
     text-decoration: none;
     font-size: 16px;
     font-weight: 500;
@@ -204,8 +203,7 @@ header {
 }
 
 .site-nav .nav-link.current {
-    color: var(--accent-color-focus);
-    
+    color: var(--accent-color-focus);    
     position: relative;
 }
 
@@ -215,7 +213,6 @@ header {
     /* bottom: 20px; */
     bottom: 0;
     left: 0;
-
     display: block;
     width: 100%;
     height: 4px;
